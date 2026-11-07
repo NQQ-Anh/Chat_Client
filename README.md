@@ -1,1 +1,1 @@
-mở terminal/ powershell chạy lệnh : mvn -f client\pom.xml javafx:run
+mở terminal/ powershell chạy lệnh : mvn -f pom.xml javafx:run
