@@ -1,0 +1,1 @@
+mở terminal/ powershell chạy lệnh : mvn -f client\pom.xml javafx:run
